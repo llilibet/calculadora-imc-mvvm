@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImcMvvm</string>
+    <string name="resultado_padrao">RESULTADO</string>
+    <string name="hint_peso">Peso (kg). Ex: 50</string>
+    <string name="hint_altura">Altura (m). Ex: 1.70</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="descricao_logo">Logo da Calculadora de IMC</string>
+</resources>
